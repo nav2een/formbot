@@ -1,4 +1,4 @@
-# surveymonkey-hack
+# Bot to submit survey forms
 
 ## Dependencies
 + git
@@ -13,8 +13,8 @@ Download [link](https://nodejs.org/dist/v14.6.0/node-v14.6.0-x86.msi) for nodejs
 Clone the respository, install `node_modules`.
 
 ```bat
-git clone https://github.com/nav2een/surveymonkey-hack.git
-cd surveymonkey-hack
+git clone https://github.com/nav2een/formbot.git
+cd formbot
 npm install
 ```
 
